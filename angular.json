@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "app-harshita"
+  "defaultProject": "app-harshita",
+  "cli": {
+    "analytics": "fc1e0655-459b-4ceb-8374-193fa7f2e811"
+  }
 }
